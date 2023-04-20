@@ -11,7 +11,7 @@ from discord.ext import commands
 API_TOKEN = '6149444852:AAH66hYj3mWx35GIIFMDFwO0TVUyO6SiFyM'
 
 # Используйте свой токен для Discord
-DISCORD_TOKEN = 'OTcyODEzODgzODkyOTg1ODY2.G97TpQ.ddONk5_Uu7g-ABzgIuL7mb7QrOlEFqw3aBLflY'
+DISCORD_TOKEN = 'fceb18004c353762408b01989445db736fd7bdfad35a19c2d0de6044b66f9801'
 DISCORD_CHANNEL_ID = 1096967452283375659  # Замените на ID текстового канала Discord
 
 logging.basicConfig(level=logging.INFO)
